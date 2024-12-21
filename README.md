@@ -57,7 +57,7 @@
   <a href="https://codepen.io/dikshanttanwar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
-  <a href="https://www.instagram.com/dikshant.thisside/" target="_blank">
+  <a href="https://www.instagram.com/dikshanttanwar_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
